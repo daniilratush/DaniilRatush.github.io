@@ -737,13 +737,13 @@ pre {
   color: #f7ed4a;
 }
 .cid-qsXbxQucmF .navbar {
-  background: #ffffff;
+  background: #232323;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qsXbxQucmF .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #232323;
 }
 .cid-qsXbxQucmF a {
   font-style: normal;
@@ -821,7 +821,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qsXbxQucmF .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1193,13 +1193,13 @@ pre {
   color: #cccccc;
 }
 .cid-qsXbxQucmF .navbar {
-  background: #ffffff;
+  background: #232323;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qsXbxQucmF .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #232323;
 }
 .cid-qsXbxQucmF a {
   font-style: normal;
@@ -1277,7 +1277,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qsXbxQucmF .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1658,51 +1658,33 @@ pre {
 .cid-qsXdl4wWDv foot-menu-item {
   color: #cccccc;
 }
-.cid-qsXVfS4lvI {
+.cid-qtMTyNOnyY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #fcfcfc;
 }
-.cid-qsXVfS4lvI .mbr-section-subtitle {
+.cid-qtMTyNOnyY .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qtMTyNOnyY H1 {
+  color: #232323;
+}
+.cid-qtMTyNOnyY .mbr-text,
+.cid-qtMTyNOnyY .mbr-section-btn {
+  color: #232323;
+}
+.cid-qtMTyNOnyY .mbr-text,
+.cid-qtMTyNOnyY .mbr-section-btn DIV {
   color: #767676;
 }
-.cid-qsXVfS4lvI .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-qsXVfS4lvI .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-qsXVfS4lvI .team-item .item-image img {
-  width: 100%;
-}
-.cid-qsXVfS4lvI .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qsXVfS4lvI .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qsXVfS4lvI .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qsXVfS4lvI .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-qsXVfS4lvI .team-item .item-caption {
-  background: #efefef;
-}
 .cid-qsXbxQucmF .navbar {
-  background: #ffffff;
+  background: #232323;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qsXbxQucmF .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #232323;
 }
 .cid-qsXbxQucmF a {
   font-style: normal;
@@ -1780,7 +1762,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qsXbxQucmF .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2122,13 +2104,13 @@ pre {
   background-image: url("../../../assets/images/bankoboev.ru-fuzhery-s-shampanskim-1280x960.jpg");
 }
 .cid-qsXbxQucmF .navbar {
-  background: #ffffff;
+  background: #232323;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qsXbxQucmF .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #232323;
 }
 .cid-qsXbxQucmF a {
   font-style: normal;
@@ -2206,7 +2188,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qsXbxQucmF .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2545,13 +2527,13 @@ pre {
   color: #cccccc;
 }
 .cid-qsXbxQucmF .navbar {
-  background: #ffffff;
+  background: #232323;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qsXbxQucmF .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #232323;
 }
 .cid-qsXbxQucmF a {
   font-style: normal;
@@ -2629,7 +2611,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qsXbxQucmF .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
